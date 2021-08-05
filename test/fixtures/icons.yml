@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  image: MyString
+  created: 2021-07-27
+  height: 1
+  history: MyString
+
+two:
+  name: MyString
+  image: MyString
+  created: 2021-07-27
+  height: 1
+  history: MyString

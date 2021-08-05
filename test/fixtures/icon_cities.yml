@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  icon: one
+  city: one
+
+two:
+  icon: two
+  city: two
