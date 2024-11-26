@@ -18,7 +18,7 @@ gem 'puma', '~> 5.0'
 #soft delete with paranoia:
 gem "paranoia", "~> 2.2"
 # Use Active Storage variant
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12', '>= 1.12.2'
 gem 'dotenv-rails', :groups => [:development, :test]
 
 # Reduces boot times through caching; required in config/boot.rb
